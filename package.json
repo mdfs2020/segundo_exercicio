@@ -1,0 +1,23 @@
+{
+  "name": "segundo_exercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdfs2020/segundo_exercicio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdfs2020/segundo_exercicio/issues"
+  },
+  "homepage": "https://github.com/mdfs2020/segundo_exercicio#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
